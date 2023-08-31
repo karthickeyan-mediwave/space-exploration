@@ -1,9 +1,7 @@
 body {
-  background-image: url(assets/images/giphy.webp);
-  text-align: center;
-  background-size: cover;
   color: #82a5ca;
   font-family: "Orbitron", sans-serif;
+  margin: 0;
 }
 .apply-btn {
   font-family: "Orbitron", sans-serif;
@@ -15,4 +13,16 @@ body {
 }
 .span-underline {
   border-bottom: 5px solid white;
+}
+#main-content {
+  background-image: url(assets/images/giphy.webp);
+  text-align: center;
+  background-size: cover;
+  padding: 10px 0 50px 0;
+  height: 700px;
+}
+h3 {
+  color: #82a5ca;
+  text-align: center;
+  font-size: 25px;
 }
