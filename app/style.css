@@ -5,3 +5,10 @@ body {
   color: white;
   font-family: "Orbitron", sans-serif;
 }
+.apply-btn {
+  font-family: "Orbitron", sans-serif;
+  background: white;
+  border: none;
+  padding: 5px 15px;
+  font-size: 15px;
+}
